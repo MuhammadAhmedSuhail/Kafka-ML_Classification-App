@@ -38,7 +38,7 @@ The final part of the project involves implementing a frontend website using Fla
 - Abdullah Basharat
 
 ## Acknowledgments:
-- This was completed as a project for Big Data Analytics at FAST - NUCES Islamabad.
+- This was completed as a project for **Big Data Analytics** at FAST - NUCES Islamabad.
 
 
 
